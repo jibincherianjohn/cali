@@ -5,7 +5,7 @@ h1{
     align-content: center;
     color: white;
 }
-.d1{
+div{
     height: 201px;
     width: 17%;
     background-color: rgb(155, 192, 183);
@@ -52,7 +52,7 @@ input{
     }
 }
 @media(max-width:400px) {
-    .d1{
+    div{
         margin-left: 10px;
         width: 95%;
     }
